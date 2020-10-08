@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Customization"
+		}
+	],
+	"settings": {
+		"python.dataScience.jupyterServerURI": "https://hostname:8080/?token=849d61a414abafab97bc4aab1f3547755ddc232c2b8cb7fe",
+		"python.pythonPath": "C:\\Users\\jedgo\\.conda\\envs\\fun\\python.exe"
+	}
+}
