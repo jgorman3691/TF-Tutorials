@@ -1,0 +1,9 @@
+{
+  "git.ignoreLimitWarning": true,
+  "projectManager.git.baseFolders": [
+    "C:\\Users\\jedgo",
+    "\"C:\\Users\\jedgo\\TensorFlow\\TF Tutorials\\TFHub\\Customization\"",
+    "C:\\Users\\jedgo\\Projects"
+  ],
+  "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=2c7ed2f6b6bc877b3f1ab71f982918680ff0791925934448"
+}
